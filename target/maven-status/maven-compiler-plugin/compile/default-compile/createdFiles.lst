@@ -1,0 +1,8 @@
+br\edu\ifms\com\uniesquina\uniesquina\servlet\CadastroServlet.class
+br\edu\ifms\com\uniesquina\uniesquina\TesteCadastro.class
+br\edu\ifms\com\uniesquina\uniesquina\util\Conexao.class
+br\edu\ifms\com\uniesquina\uniesquina\TesteConexao.class
+br\edu\ifms\com\uniesquina\uniesquina\resources\JakartaEE10Resource.class
+br\edu\ifms\com\uniesquina\uniesquina\model\Usuario.class
+br\edu\ifms\com\uniesquina\uniesquina\dao\UsuarioDAO.class
+br\edu\ifms\com\uniesquina\uniesquina\JakartaRestConfiguration.class
